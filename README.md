@@ -1,1 +1,1 @@
-See README.md in 说明文档.
+See README.md in Documentation folder.

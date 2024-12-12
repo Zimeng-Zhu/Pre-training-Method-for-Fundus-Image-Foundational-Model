@@ -19,7 +19,7 @@ class MainWidget(QMainWindow):
 
         self.setWindowTitle("眼底彩照辅助诊断工具")
         self.resize(1800, 900)
-        self.setWindowIcon(QIcon("图标.png"))
+        self.setWindowIcon(QIcon("icon.png"))
 
         # 菜单栏
         self.menubar = self.menuBar()
